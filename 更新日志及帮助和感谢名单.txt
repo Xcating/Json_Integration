@@ -1,0 +1,39 @@
+# 此版本仅限Acrepi/Akebi使用，Bkebi请查看 https://github.com/Xcating/Json_Integration/releases/tag/Bkebi
+
+# 本JSON GITHUB地址：https://github.com/Xcating/Json_Integration  此地方稳定更新，最新版本请从这里获取
+
+The integration comes from @茶亭#6804, and the file comes from @everyone Not Daomai , Daomai die ma
+
+Update Logs:
+
+v1：  我不到啊
+v2：  我不到啊
+v3：  我不到啊
+v4：  我不到啊
+v5：  部分地区探索度100% [+] 植物部分 [+] 啥都加了 [+]
+v6:   老石人
+v7:   我补刀啊
+v8:   忘了
+v9:   3.4新地图的100%探索
+v10： 嘎嘎嘎嘎重新整理了一下结构
+v11： 未知版本
+v12： 真正的v11
+v13： 水版本
+v14： 一眼丁真
+v15： 啊对对对
+v16： 我超外挂
+v17:  嘿嘿嘿我的伞🥵🥵🥵
+v18:  嘿嘿嘿我的yuuri酱🥵🥵🥵
+v19:  嘿嘿嘿我的狐狸嘿嘿嘿🥵🥵🥵
+v20:  Update for Bkebi
+v21:  修改了全部宝箱/探索度100%，使用了GodWil的手动录制点位
+v22: update 3.6
+v23: 新增悼灵花点位
+
+使用说明在另一个文件
+
+Most of the source files come from 'Sam5440' 
+[#] Thank you for providing some JSON files from "Holding Green Umbrella"
+[#] Thank you for the JSON and dog food files provided by "AXC00"
+Thank you, GodWil, for providing the treasure chest/exploration documents and mourning flower documents
+Thank you to "Misuki" for providing the 3.6 map file
