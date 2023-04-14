@@ -1,9 +1,11 @@
-#### Jsfc：https://docs.qq.com/doc/DTFFHRXRlTWZ6ZFhh
+# GI Json Files Json_Integration
 
-### to release download files
+![image](https://user-images.githubusercontent.com/82816129/230099550-51500c23-7641-48df-950f-a6a1d35553e1.png)
 
-[#] Most of the source files are from "Sam5440" 
-[#] Thank you for some json files provided by "持青伞"
-[#] Thank you for the json and dog food files provided by "AXC00"
+### go to release download files
 
-[#] Thank you for the chest json GodWil
+Most of the source files come from 'Sam5440' 
+[#] Thank you for providing some JSON files from "Holding Green Umbrella"
+[#] Thank you for the JSON and dog food files provided by "AXC00"
+Thank you, GodWil, for providing the treasure chest/exploration documents and mourning flower documents
+Thank you to "Misuki" for providing the 3.6 map file
