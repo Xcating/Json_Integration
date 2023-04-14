@@ -28,8 +28,14 @@ v23: 新增悼灵花点位文件
 
 使用说明在另一个文件
 
-Most of the source files come from 'Sam5440' 
-[#] Thank you for providing some JSON files from "Holding Green Umbrella"
-[#] Thank you for the JSON and dog food files provided by "AXC00"
-Thank you, GodWil, for providing the treasure chest/exploration documents and mourning flower documents
-Thank you to "Misuki" for providing the 3.6 map file
+[#]Most of the source files come from 'Sam5440' .
+
+[#] Thank you for providing some JSON files from "Holding Green Umbrella".
+
+[#] Thank you for the JSON and dog food files provided by "AXC00".
+
+[#]tky, GodWil, for providing the treasure chest/exploration documents and mourning
+
+[#]Thank you to "Misuki" for providing the 3.6 map files.
+
+[#]Thank you "情与宇宇热恋"
