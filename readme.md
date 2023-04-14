@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/82816129/230099550-51500c23-7641-48df-950f-a6a1d35553e1.png)
 
-### go to release download files
+### [戳我下载最新版本](https://github.com/Xcating/Json_Integration/archive/refs/heads/main.zip)
 
 ---
 
