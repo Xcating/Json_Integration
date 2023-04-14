@@ -1,8 +1,5 @@
-# 此版本仅限Acrepi/Akebi使用，Bkebi请查看 https://github.com/Xcating/Json_Integration/releases/tag/Bkebi
-
 # 本JSON GITHUB地址：https://github.com/Xcating/Json_Integration  此地方稳定更新，最新版本请从这里获取
-
-The integration comes from @茶亭#6804, and the file comes from @everyone Not Daomai , Daomai die ma
+The integration comes from 茶亭#6804, and the file comes from everyone Not Daomai , Daomai die ma
 
 Update Logs:
 v1： 我不到啊
