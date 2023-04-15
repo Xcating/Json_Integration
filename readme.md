@@ -8,7 +8,7 @@
 
 [#]Most of the source files come from 'Sam5440' .
 
-[#] Thank you for providing some JSON files from "Holding Green Umbrella".
+[#] Thank you for providing some JSON and Trishiraite files from "持青伞".
 
 [#] Thank you for the JSON and dog food files provided by "AXC00".
 
