@@ -30,7 +30,7 @@ v23: 新增悼灵花点位文件
 
 [#]Most of the source files come from 'Sam5440' .
 
-[#] Thank you for providing some JSON and Trishiraite files from "持青伞".
+[#] Thank you for providing some JSON and ......3.6 files from "持青伞".
 
 [#] Thank you for the JSON and dog food files provided by "AXC00".
 
