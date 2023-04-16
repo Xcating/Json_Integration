@@ -19,3 +19,7 @@
 [#]Thank you to "Misuki" for providing the 3.6 map files.
 
 [#]Thank you "情与宇宇热恋"
+
+---
+
+### 3.6大部分点位均已更新（探索度100%，矿物，玳龟，圣骸，丘丘游侠，悼灵花），如果有缺少或遗漏请在Discord dm茶亭#6804.exe
