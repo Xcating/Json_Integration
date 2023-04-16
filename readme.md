@@ -6,6 +6,8 @@
 
 ---
 
+### Thank you for the Akebi-30 day card provided by "isxlan0# 9323". Thank you very much!
+
 [#]Most of the source files come from 'Sam5440' .
 
 [#] Thank you for providing some JSON and Trishiraite files from "持青伞".
