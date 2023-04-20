@@ -1,6 +1,6 @@
 # GI Json Files Json_Integration
 
-![image](https://user-images.githubusercontent.com/82816129/230099550-51500c23-7641-48df-950f-a6a1d35553e1.png)
+
 
 ### [戳我下载最新版本](https://github.com/Xcating/Json_Integration/archive/refs/heads/main.zip)    (●'◡'●)     [戳我查看传送教程](https://docs.qq.com/doc/DTFFHRXRlTWZ6ZFhh)
 
@@ -22,8 +22,12 @@
 
 [#]Thank you '1241783312' 's 鹤观 files
 
+[#]Thank you 茶亭#6804 提供部分点位
+
 ---
 
-### 3.6大部分点位均已更新（探索度100%，矿物，玳龟，圣骸，丘丘游侠，悼灵花，万相石），如果有缺少或遗漏请在Discord dm茶亭#6804，小学生会尽量录的
+### 3.6大部分点位均已更新（探索度100%，矿物，玳龟，圣骸，丘丘游侠，悼灵花，万相石），如果有缺少或遗漏请在Discord dm茶亭#6804，小学生会录的
 
-特此说明，大部分json并非本人所做，小学生并不会有很多的时间去录点位，大部分从网上搜集而来，要说本人目前没自制能力，我非常认可。
+特此说明，大部分json并非本人所做，小学生并不会有很多的时间去录点位，大部分从网上搜集而来。
+
+![image](https://user-images.githubusercontent.com/82816129/230099550-51500c23-7641-48df-950f-a6a1d35553e1.png)
