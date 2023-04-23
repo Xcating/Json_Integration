@@ -2,7 +2,7 @@
 
 
 
-### [戳我下载最新版本](https://github.com/Xcating/Json_Integration/archive/refs/heads/main.zip)    (●'◡'●)     [戳我查看传送教程](https://docs.qq.com/doc/DTFFHRXRlTWZ6ZFhh)
+### [戳我下载最新版本](https://github.com/Xcating/Json_Integration/archive/refs/heads/main.zip)    (●'◡'●)     ╰(*°▽°*)╯   [戳我查看传送教程](https://docs.qq.com/doc/DTFFHRXRlTWZ6ZFhh)
 
 ---
 
@@ -20,14 +20,14 @@
 
 [#]Thank you "情与宇宇热恋"
 
-[#]Thank you 群：1056308869 群员：'H' 的 's 鹤观 files
+[#]Thank you group：1056308869 member：'H' 的 's 鹤观 files
 
-[#]Thank you 茶亭#6804 提供部分点位
+[#]Thank you 茶亭#6804 provide sm points
 
 ---
 
-### 3.6大部分点位均已更新（探索度100%，矿物，玳龟，圣骸，丘丘游侠，悼灵花，万相石），如果有缺少或遗漏请在Discord dm茶亭#6804，小学生会录的
+### Most of the points of interest in Version 3.6 have been updated (100% exploration, minerals, lizards, shrines, hilichurls, Naku Weed, Prism Shard), if there is any missing or omission, please dm 茶亭#6804 on Discord. 
 
-特此说明，大部分json并非本人所做，小学生并不会有很多的时间去录点位，大部分从网上搜集而来。
+I would like to clarify that most of the JSON files are not done by myself. As a primary school student, I do not have much time to record the points of interest. Most of them are collected from the Internet. 
 
 ![image](https://user-images.githubusercontent.com/82816129/230099550-51500c23-7641-48df-950f-a6a1d35553e1.png)
