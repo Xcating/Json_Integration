@@ -20,7 +20,7 @@
 
 [#]Thank you "情与宇宇热恋"
 
-[#]Thank you '1241783312' 's 鹤观 files
+[#]Thank you 群：1056308869 群员：'H' 的 's 鹤观 files
 
 [#]Thank you 茶亭#6804 提供部分点位
 
