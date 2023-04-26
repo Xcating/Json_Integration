@@ -1,8 +1,8 @@
-# GI Json Files Json_Integration
+![image](https://user-images.githubusercontent.com/82816129/234588408-62d80303-cd82-4000-8036-4b477a6f8ea2.png)
 
+### 	[![image](https://user-images.githubusercontent.com/82816129/234592376-486a39e9-4784-4d6b-a823-57d57bc074e3.png)](https://github.com/Xcating/Json_Integration/archive/refs/heads/main.zip)                         
 
-
-### [戳我下载最新版本](https://github.com/Xcating/Json_Integration/archive/refs/heads/main.zip)    (●'◡'●)     ╰(*°▽°*)╯   [戳我查看传送教程](https://docs.qq.com/doc/DTFFHRXRlTWZ6ZFhh)
+###  [自定义传送教程](https://docs.qq.com/doc/DTFFHRXRlTWZ6ZFhh)
 
 ---
 
