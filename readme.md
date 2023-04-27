@@ -1,8 +1,8 @@
-![image](https://user-images.githubusercontent.com/82816129/234588408-62d80303-cd82-4000-8036-4b477a6f8ea2.png)
+![image](https://user-images.githubusercontent.com/82816129/234906553-cdc5070b-7752-4b84-920a-361c36257b6c.png)
 
 ​																								<a href="https://github.com/Sam5440/Genshin_Impact_Teleport/commits/main"><img src="https://img.shields.io/github/last-commit/Xcating/Json_Integration?label=Last%20Commit&logo=Github&style=flat-square"></a><img width="100px" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Xcating/Json_Integration?label=Stars&logo=data:image/svg+xml;base64,PHN2ZyBoZWlnaHQ9IjE2IiB3aWR0aD0iMTYiIHZlcnNpb249IjEuMSIgaWQ9IkNhcGFfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgCgkgdmlld0JveD0iMCAwIDE2IDE2IiB4bWw6c3BhY2U9InByZXNlcnZlIj4KPHBhdGggc3R5bGU9ImZpbGw6I0VBQzU0RjsiIGQ9Ik04IC4yNWEuNzUuNzUgMCAwMS42NzMuNDE4bDEuODgyIDMuODE1IDQuMjEuNjEyYS43NS43NSAwIDAxLjQxNiAxLjI3OWwtMy4wNDYgMi45Ny43MTkgNC4xOTJhLjc1Ljc1IDAgMDEtMS4wODguNzkxTDggMTIuMzQ3bC0zLjc2NiAxLjk4YS43NS43NSAwIDAxLTEuMDg4LS43OWwuNzItNC4xOTRMLjgxOCA2LjM3NGEuNzUuNzUgMCAwMS40MTYtMS4yOGw0LjIxLS42MTFMNy4zMjcuNjY4QS43NS43NSAwIDAxOCAuMjV6Ii8+Cjwvc3ZnPg==&style=flat-square">
 
-### 	[![image](https://user-images.githubusercontent.com/82816129/234592376-486a39e9-4784-4d6b-a823-57d57bc074e3.png)](https://github.com/Xcating/Json_Integration/archive/refs/heads/main.zip)                         
+### 	[![image](https://user-images.githubusercontent.com/82816129/234907555-0c0b4b03-078c-45eb-88ad-9f55cc5e33c6.png)](https://github.com/Xcating/Json_Integration/archive/refs/heads/main.zip)                         
 
 
 
