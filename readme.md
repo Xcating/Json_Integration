@@ -8,7 +8,7 @@
 
 
 
-### 🥵About Point Info Or Infringement,plz dm [M🍵E](https://lanyard.cnrad.dev/api/995140672275349596)
+### 🥵About Point Info Or Infringement,plz dm [M🍵E](https://discord.com/users/995140672275349596)
 
 ---
 
