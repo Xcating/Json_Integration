@@ -2,11 +2,9 @@
 
 ### 		[<img src="https://user-images.githubusercontent.com/82816129/234908325-97c49424-3f47-4ad0-8bb9-da706146118a.png" alt="image" style="zoom:80%;" />](https://github.com/Xcating/Json_Integration/archive/refs/heads/main.zip)                       
 
-
+## **[加入我们的discord服务器](https://discord.gg/e4kSanAW2q)**
 
 ### 												 ⛪[Akebi-GC    Json自定义传送教程](https://docs.qq.com/doc/DTFFHRXRlTWZ6ZFhh)
-
-
 
 ### 🥵About Point Info Or Infringement,plz dm [M🍵E](https://discord.com/users/995140672275349596)
 
