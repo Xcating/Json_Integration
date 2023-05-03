@@ -50,6 +50,6 @@
 
 ![INFO](https://repobeats.axiom.co/api/embed/5709864a097eb23ac7a010b7ebb4347b02d5f23b.svg "Repobeats analytics image")
 
----
+##### 
 
-##### [![image](https://user-images.githubusercontent.com/82816129/230099550-51500c23-7641-48df-950f-a6a1d35553e1.png)](discord.gg/xce)
+[![Tdev](https://user-images.githubusercontent.com/82816129/235845181-c108019b-fe13-497b-ae45-8cc226996661.png)](discord.gg/xce)
