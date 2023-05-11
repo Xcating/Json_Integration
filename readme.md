@@ -4,7 +4,7 @@
 
 ## **[加入我们的discord服务器](https://discord.gg/e4kSanAW2q)**
 
-### 												 ⛪[Akebi-GC    Json自定义传送教程](https://docs.qq.com/doc/DTFFHRXRlTWZ6ZFhh)
+### 												 ⛪[Akebi-GC   Json自定义传送教程](https://docs.qq.com/doc/DTFFHRXRlTWZ6ZFhh)
 
 ### 🥵About Point Info Or Infringement,plz dm [M🍵E](https://discord.com/users/995140672275349596)
 
