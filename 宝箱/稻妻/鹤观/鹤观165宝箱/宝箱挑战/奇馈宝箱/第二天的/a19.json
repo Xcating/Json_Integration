@@ -1,10 +1,1 @@
-{
-    "checked": false,
-    "description": "{\"name\":\"0007255214\",\"position\":[-6178.567383,220.790970,-2477.187744]}",
-    "name": "a19",
-    "position": [
-        -6178.5673828125,
-        220.7909698486328,
-        -2477.187744140625
-    ]
-}
+{"checked": false, "description": "Integration By https://github.com/Xcating/Json_Integration Make By Everyone", "name": "a19", "position": [-6178.5673828125, 220.7909698486328, -2477.187744140625]}

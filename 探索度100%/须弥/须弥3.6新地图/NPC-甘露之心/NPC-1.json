@@ -1,10 +1,1 @@
-{
-    "checked": false,
-    "description": "",
-    "name": "NPC-1",
-    "position": [
-        339.46881103515625,
-        278.81695556640625,
-        6162.82666015625
-    ]
-}
+{"checked": false, "description": "Integration By https://github.com/Xcating/Json_Integration Make By Everyone", "name": "NPC-1", "position": [339.46881103515625, 278.81695556640625, 6162.82666015625]}
