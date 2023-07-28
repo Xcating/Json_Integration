@@ -12,8 +12,6 @@
 
 ## 👤contributors:
 
-### >  Thank you for the Akebi-30 day card provided by "isxlan0# 9323". Thank you very much!!!
-
 >  [#]Most of the source files come from 'Sam5440' .
 
 >  [#] Thank you for providing some JSON and Trishiraite files from "持青伞".
@@ -25,6 +23,8 @@
 >  [#]Thank you to "Misuki" for providing the 3.6 map files.
 
 >  [#]Thank you "情与宇宇热恋"
+>
+>  [#]Thank you Discord "cowan97" Fish Points！
 
 >  [#]Thank you group：1056308869 member：'H' 的 's 鹤观 files
 
@@ -52,4 +52,4 @@
 
 ##### 
 
-[![Tdev](https://user-images.githubusercontent.com/82816129/235845181-c108019b-fe13-497b-ae45-8cc226996661.png)](https://discord.gg/xce)
+[![Tdev](https://user-images.githubusercontent.com/82816129/235845181-c108019b-fe13-497b-ae45-8cc226996661.png)](https://discord.gg/xce)huu
