@@ -24,6 +24,10 @@
 
 >  [#]Thank you "情与宇宇热恋"
 >
+>  [#]Thanks QQ Group 795208101 Member 's files
+>
+>  [#]Thanks https://disk.yandex.ru/d/D1TnGrpkG32KzA 
+>
 >  [#]Thank you Discord "cowan97" Fish Points！
 
 >  [#]Thank you group：1056308869 member：'H' 的 's 鹤观 files
