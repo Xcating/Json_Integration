@@ -4,6 +4,8 @@
 
 ## **[加入我们的discord服务器](https://discord.gg/e4kSanAW2q)**
 
+## QQ群  795208101 火速来玩
+
 ### 												 ⛪[Akebi-GC   Json自定义传送教程](https://docs.qq.com/doc/DTFFHRXRlTWZ6ZFhh)
 
 ### 🥵About Point Info Or Infringement,plz dm [M🍵E](https://discord.com/users/995140672275349596)
@@ -23,6 +25,10 @@
 >  [#]Thank you to "Misuki" for providing the 3.6 map files.
 
 >  [#]Thank you "情与宇宇热恋"
+>
+>  ---
+>
+>  [#]Tanks 巡刺
 >
 >  [#]Thanks QQ Group 795208101 Member 's files
 >
