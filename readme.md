@@ -14,21 +14,21 @@
 
 ## 👤contributors:
 
-> Sam5440
-> 持青伞
-> AXC00
-> GodWil
-> Misuki
-> 情与宇宇热恋
-> 巡刺
-> Apiny
-> Group 795208101 Members
-> 毛子 https://disk.yandex.ru/d/D1TnGrpkG32KzA 
-> cowan97
-> 1056308869 members
-> 茶亭
+> Sam5440  
+> 持青伞  
+> AXC00  
+> GodWil  
+> Misuki  
+> 情与宇宇热恋  
+> 巡刺  
+> Apiny  
+> Group 795208101 Members  
+> 毛子 https://disk.yandex.ru/d/D1TnGrpkG32KzA   
+> cowan97  
+> 1056308869 members  
+> 茶亭    
 >
-> GITHUB
+> GITHUB  
 ---
 <a href="https://github.com/Xcating/Json_Integration/graphs/contributors"><img src="https://contrib.rocks/image?repo=Xcating/Json_Integration&max=100" /></a>
 #### TeaTingLoveYou
