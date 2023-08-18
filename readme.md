@@ -14,37 +14,24 @@
 
 ## 👤contributors:
 
->  [#]Most of the source files come from 'Sam5440' .
-
->  [#] Thank you for providing some JSON and Trishiraite files from "持青伞".
-
->  [#] Thank you for the JSON and dog food files provided by "AXC00".
-
->  [#]tky, GodWil, for providing the treasure chest/exploration documents and mourning
-
->  [#]Thank you to "Misuki" for providing the 3.6 map files.
-
->  [#]Thank you "情与宇宇热恋"
+> Sam5440
+> 持青伞
+> AXC00
+> GodWil
+> Misuki
+> 情与宇宇热恋
+> 巡刺
+> Apiny
+> Group 795208101 Members
+> 毛子 https://disk.yandex.ru/d/D1TnGrpkG32KzA 
+> cowan97
+> 1056308869 members
+> 茶亭
 >
->  ---
->
->  [#]Tanks 巡刺
->
->  [#]Thanks QQ Group 795208101 Member 's files
->
->  [#]Thanks https://disk.yandex.ru/d/D1TnGrpkG32KzA 
->
->  [#]Thank you Discord "cowan97" Fish Points！
-
->  [#]Thank you group：1056308869 member：'H' 的 's 鹤观 files
-
->  [#]Thank you 茶亭#6804 provide some points
-
-> [#]Github Acknowledger" <a href="https://github.com/Xcating/Json_Integration/graphs/contributors">
-> <img src="https://contrib.rocks/image?repo=Xcating/Json_Integration&max=100" />
-> </a>"
-
-> [#]TeaTingLoveYou
+> GITHUB
+---
+<a href="https://github.com/Xcating/Json_Integration/graphs/contributors"><img src="https://contrib.rocks/image?repo=Xcating/Json_Integration&max=100" /></a>
+#### TeaTingLoveYou
 
 ###### 🍵ABOUT TEATING
 
