@@ -4,7 +4,7 @@
 
 ## **[加入我们的discord服务器](https://discord.gg/e4kSanAW2q)**
 
-## QQ群  795208101 火速来玩
+## [QQ群  795208101 火速来玩，点击加入](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=rL-ncACf1njkQxAeXxiQ-h5oKA4EMNsO&authKey=PZEQv9QYLefDcRHZd%2Bt1aaxGILDy4KuTK5ybSKEBVT5ICcpXbQPdviFUM%2BnvmisQ&noverify=0&group_code=795208101)
 
 ### 												 ⛪[Akebi-GC   Json自定义传送教程](https://docs.qq.com/doc/DTFFHRXRlTWZ6ZFhh)
 
@@ -23,7 +23,7 @@
 > 巡刺  
 > Apiny  
 > Group 795208101 Members  
-> 毛子 https://disk.yandex.ru/d/D1TnGrpkG32KzA   
+> 毛子  
 > cowan97  
 > 1056308869 members  
 > 茶亭    
