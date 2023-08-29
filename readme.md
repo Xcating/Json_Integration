@@ -28,6 +28,10 @@
 > 1056308869 members  
 > 茶亭    
 >
+> Translators for english version:
+> Dry1ceD7
+> Thafoxes
+> 
 > GITHUB  
 ---
 <a href="https://github.com/Xcating/Json_Integration/graphs/contributors"><img src="https://contrib.rocks/image?repo=Xcating/Json_Integration&max=100" /></a>
