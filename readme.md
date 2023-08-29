@@ -29,8 +29,8 @@
 > 茶亭
 >    
 > Translators for english version：
-> Dry1ceD7
-> Thafoxes
+> 1. Dry1ceD7
+> 1. Thafoxes
 > 
 ---
 
