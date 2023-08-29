@@ -1,0 +1,5 @@
+
+
+    The quest "Tatsumi Story (7 days)" in Shinumozuka needs to be completed for the quest "Sakura of Healing".
+
+The second sentence is a command to the user to search for information on how to solve the puzzle if they do not understand it.
