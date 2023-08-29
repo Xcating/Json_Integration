@@ -27,7 +27,6 @@
 > cowan97  
 > 1056308869 members  
 > 茶亭    
->
 > Translators for english version:
 > Dry1ceD7
 > Thafoxes
