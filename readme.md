@@ -33,6 +33,8 @@
 > 1. Thafoxes
 > 
 ---
+## Referece: https://genshin-impact.fandom.com/wiki/Genshin_Impact_Wiki 
+
 
 
 
