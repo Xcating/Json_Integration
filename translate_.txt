@@ -1,0 +1,226 @@
+
+隙镜原体 Breacher Primus
+浊水幻灵 Tainted Hydro Phantasm
+发条机关 Clockwork Meka
+原海异种 Fontemer Aberrant
+柔灯铃 Lumidouce Bell
+海露花 Romaritime Flowers
+苍晶螺 Beryl Conch
+虹彩蔷薇 Rainbow Rose
+仙灵 Seelie
+开笼子 Open the cage
+裸露宝箱 Common Chest
+解密宝箱 Puzzle Chest
+限时挑战 Time-limited challenge
+新增万相石 New Trishiraite
+新增丘丘游侠 New Hilichurl Rogue
+兽肉 Raw Meat
+冻猪 Frozen Meat
+吉光虫 Lucklight Fly
+圣金虫 Scarab
+晶核 Crystal Core
+沙脂蛹 Sand Grease Pupa
+盗宝鼬 Weasel Thief
+禽肉 Fowl
+蜥蜴 lizard
+螃蟹 Crab
+青蛙 Frog
+鱼肉 Fish
+鳗鱼 Eel
+层岩巨渊·地下矿区 The Chasm Underground Mine
+层岩巨渊 The Chasm
+提瓦特 Teyvat
+金苹果群岛 Golden Apple Archipelago
+渊下宫 Enkanomiya
+啾啾 Loach
+动物 Animal
+其他 Other
+久雨莲 Pluie Lotus
+汐藻 Tidalga
+泡泡桔 Bulle Fruit
+茉洁花 Jasmine Flower
+任务 Quest
+世界任务 World Quest
+新增圣骸兽 New Consecrated Beast
+森林书 Aranyaka
+新 New
+挖坑 dig a hole
+圣遗物 Artifact
+玳龟 Tent Tortoise
+钓鱼点位 fishing spot
+欢兴礼劵 Joyeux Voucher
+绯樱绣球 Sakura Bloom
+虹彩蔷薇 Rainbow Rose
+冰风组曲 Icewind Suite
+业果木 Karmaphala Wood
+刺葵木 Mountain Date Wood
+却沙木 Sandbearer Wood
+垂香木 Fragrant Cedar Wood
+孔雀木 Aralia Wood
+御伽木 Otogi Wood
+怪木 Athel Wood
+悬铃木 Mallow Wood
+杉木 Fir Wood
+松木 Pine Wood
+枫木 Maple Wood
+桦木 Birch Wood
+梦见木 Yumemiru Wood
+椴木 Linden Wood
+炬木 Torchwood
+白梣木 Ash Wood
+竹节 Bamboo Segment
+证悟木 Adhigama Wood
+辉木 Brightwood
+香柏木 Cypress Wood
+木头 Wood
+植物 Plant
+久雨莲 Pluie Lotus
+冰雾花 Mist Flower
+劫莲波 Kalpalata Lotus
+嘟嘟莲 Calla Lily
+堇瓜 Lavender Melon
+塞西莉亚花 Cecilia
+墩墩桃 Zaytun Peach
+天云草实 Amakumo Fruit
+小灯草 Small Lamp Grass
+帕蒂沙兰 (帕莎拉蒂) Padisarah
+幽灯蕈 Fluorescent Fungus
+悼灵花 Mourning Flower
+慕风蘑菇 Philanemo Mushroom
+日落果 Sunsettia
+星蕈 Starshroom
+星螺 Starconch
+晶化骨髓 Crystal Marrow
+月莲 Nilotpala Lotus
+松果 Pinecone
+松茸 Matsutake
+枣椰 Ajilenakh Nut
+柔灯铃 Lumidouce Bell
+树王圣体菇 Rukkhashava Mushrooms
+树莓 Berry
+汐藻 Tidalga
+泡泡桔 Bulle Fruit
+海灵芝 Sea Ganoderma
+海草 Seagrass
+海露花 Romaritime Flower
+清心 Qingxin
+火焰花 (烈焰花) Flaming Flower
+珊瑚珍珠 (珊瑚真珠) Sango Pearl
+琉璃百合 Glaze Lily
+琉璃袋 Violetgrass
+甜甜花 Sweet Flower
+白萝卜 Radish
+竹笋 Nascent Bamboo Shoot
+绝云椒椒 Jueyun Chili
+绯樱绣球 Sakura Bloom
+胡萝卜 Carrot
+苍晶螺 Beryl Conch
+苹果 Apple
+茉洁花 (茉洁草) Marcotte
+莲蓬 Lotus Head
+落落莓 Valberry
+蒲公英 Dandelion
+薄荷 Mint
+蘑菇 Mushroom
+虹彩蔷薇 Rainbow Rose
+血斛 Dendrobium
+赤念果 Redcrest
+金鱼草 Snapdragon
+钩钩果 Wolfhook
+霓裳花 Silk Flower
+须弥蔷薇 Sumeru Rose
+风车菊 Windwheel Aster
+香辛果 Harra Fruit
+马尾 Horsetail
+鬼兜虫 Onikabuto
+鸟蛋 Bird Egg
+鸣草 Naku Weed
+陆地 Land
+水下 Underwater
+合集 Collection
+夜泊石 Noctilucous Jade
+富集矿点 Enrichment ore point
+星银矿 Starsilver 
+水晶矿 Crystal Chunk
+电气水晶 Electro Crystal
+白铁矿 White Chunk
+石珀 Cor Lapis
+紫晶矿 Amethyst Lump
+老石 Archaic Stone
+萃凝晶 Condessence Crystal
+铁矿 IronChunk
+须弥苍漠囿土矿 Sumeru Desert Soil Ore
+魔晶矿 Magical Crystal Chunk
+矿物 Minerals
+净光翎 Plume of Purifying Light
+层章石 Sacred Seal
+散失的岩神瞳 Geoculus
+散失的水神瞳 Hydroculus
+散失的草神瞳 Dendroculus
+散失的雷神瞳 Electroculus
+散失的风神瞳 Anemoculus
+流明晶石 Lumenspar
+流明晶石原矿 Lumenspar ore
+绯红玉髓 Crimson Agate
+键文 Key Sigil
+死域草神瞳 Death Domain Dendroculi
+全部 All
+神瞳类 Oculi
+沙漠 Desert
+锚点神像 Statues of Seven
+枫丹 Fontaine
+稻妻 Inazuma
+蒙德 Mondstadt
+须弥 Sumeru
+琉形蜃境 Veluriyam Mirage
+璃月 Liyue
+龙脊雪山 Dragonspine
+沙漠锚点神像 Desert Waypoints and Statues of Seven
+枫丹锚点神像 Fontaine Waypoints and Statues of Seven
+琉形蜃境新锚点 New Waypoints in Veluriyam Mirage
+巨渊地下矿区锚点 Chasm Underground Mine Waypoint
+稻妻锚点神像 不含渊 下 宫 Inazuma Waypoints and Statues of Seven, excluding the Abyss Palace
+蒙德&璃月锚点神像 Mondstadt and Liyue Waypoints and Statues of Seven
+须弥+沙漠(非3.4)锚点和神像(无隐藏) Sumeru and Desert Waypoints and Statues of Seven (excluding 3.4), without hidden ones
+游乐场 Playground
+秘境 Domain
+锚点+神像  Waypoint and Statue of Seven
+战斗 Battle
+所有宝箱(包含战斗) All chests (including battles)
+挑战 Challenge
+解谜 Puzzle
+雪堆 Snowpile
+雪山大冰矿 Snow Mountain Great Ice Mine
+另一个版本 Another version
+水神瞳 Hydroculi
+水神瞳（需解密) Hydroculil (Requires puzzle solving)
+枫丹摩拉箱 Mora Chests in Fontaine
+地图探索  Map Exploration
+摩拉箱 Mora Chests
+地灵龛 Shrine of Depth
+补充 Additional
+稻妻六岛分岛 Inazuma divided into six islands
+鹤观 Tsurumi Island
+刀镡 weapon ascension material
+提瓦特全晶蝶 All Crystalfly in Teyvat
+Breacher Primus
+解密 Puzzle
+解密石碑 Puzzle stone tablet
+鸣神岛 Narukami Island
+神无冢 Kannazuka Island
+八酝岛 Yashiori Island
+海祈岛 Watatsumi Island
+清籁岛 Seirai Island
+鹤观 Tsurumi Island
+元素方碑 Elemental Monument
+裸露宝箱 Visible treasure
+雷灵仙灵 Electro Seelie
+鲸井小弟 Kid Kujirai
+火把 Torch
+蓬蓬果 风史莱姆 Bloatty Floatty + Anemo Slime
+跑圈 Circle run
+风墙宝箱 Wind shield chest
+草种子解密 Dendrogranum Puzzle
+元素方碑 Elemental Monument
+原能火种 Elemental Embers
+圣章石 Sacred Seal
