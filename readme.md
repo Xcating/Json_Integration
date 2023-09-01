@@ -1,11 +1,8 @@
 [![image](https://user-images.githubusercontent.com/82816129/234908010-50130cef-3b15-4de7-b8fb-493375575cb9.png)](https://github.com/Xcating/Json_Integration#)
-  
+## [English Verions](https://github.com/Xcating/Json_Integration/tree/dev)  
+### 		[<img src="https://user-images.githubusercontent.com/82816129/234908325-97c49424-3f47-4ad0-8bb9-da706146118a.png" alt="image" style="zoom:80%;" />](https://github.com/Xcating/Json_Integration/archive/refs/heads/main.zip)                       
 
-## **[Join We Discord Server](https://discord.gg/e4kSanAW2q)**
-
-## English Verion by DryIce, discord: d7y1ce7777
-  
-## [ im.QQ.com Group  795208101 ](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=rL-ncACf1njkQxAeXxiQ-h5oKA4EMNsO&authKey=PZEQv9QYLefDcRHZd%2Bt1aaxGILDy4KuTK5ybSKEBVT5ICcpXbQPdviFUM%2BnvmisQ&noverify=0&group_code=795208101)
+## **[Join Discord](https://discord.gg/e4kSanAW2q)**
 
 
 ### 🥵About Point Info Or Infringement,plz dm [M🍵E](https://discord.com/users/995140672275349596)
@@ -15,21 +12,21 @@
 ## 👤contributors:
 
 > Sam5440  
-> 持青伞  
+> ChiQingSan  
 > DryIce  
 > AXC00  
 > GodWil  
 > Misuki  
-> 情与宇宇热恋  
-> 巡刺  
+> QYSG  
+> XunCi  
 > Apiny  
 > Group 795208101 Members  
-> 毛子  
+> byd  
 > cowan97  
 > 1056308869 members  
-> 茶亭
-> 缘起  
-> Kirito     
+> Xcating    
+> YuanQi  
+> Kirito   
 >
 > GITHUB  
 ---
