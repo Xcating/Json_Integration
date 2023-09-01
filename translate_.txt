@@ -46,7 +46,7 @@
 新 New
 挖坑 dig a hole
 圣遗物 Artifact
-玳龟 Tent Tortoise Tent Tortoise
+玳龟 Tent Tortoise 
 钓鱼点位 fishing spot
 欢兴礼劵 Joyeux Voucher
 绯樱绣球 Sakura Bloom
