@@ -17,19 +17,16 @@ dictionary = {
 }
 
 for x in filenames:
-    y = (
-        x.replace("须弥", dictionary["须弥"])
-          .replace("苍漠", dictionary["苍漠"])
-          .replace("宝箱",dictionary["宝箱"])
-          .replace("挑战", dictionary["挑战"])
-          .replace("摩拉", dictionary["摩拉"])
-          .replace("神瞳", dictionary["神瞳"])
-          .replace("解谜", dictionary["解谜"])
+    for meaning in dictionary.keys():
 
-    )
+        y = (
+            x.replace(meaning, dictionary[meaning])
+        )
+
     source = mypath + x
     destination = mypath + y
-    os.rename(source, destination)
+    print(y)
+    # os.rename(source, destination)
     
     
     
