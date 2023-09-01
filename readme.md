@@ -4,6 +4,8 @@
 
 ## **[加入我们的discord服务器](https://discord.gg/e4kSanAW2q)**
 
+## [QQ群  795208101 火速来玩，点击加入](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=rL-ncACf1njkQxAeXxiQ-h5oKA4EMNsO&authKey=PZEQv9QYLefDcRHZd%2Bt1aaxGILDy4KuTK5ybSKEBVT5ICcpXbQPdviFUM%2BnvmisQ&noverify=0&group_code=795208101)
+
 ### 												 ⛪[Akebi-GC   Json自定义传送教程](https://docs.qq.com/doc/DTFFHRXRlTWZ6ZFhh)
 
 ### 🥵About Point Info Or Infringement,plz dm [M🍵E](https://discord.com/users/995140672275349596)
@@ -12,29 +14,27 @@
 
 ## 👤contributors:
 
-### >  Thank you for the Akebi-30 day card provided by "isxlan0# 9323". Thank you very much!!!
-
->  [#]Most of the source files come from 'Sam5440' .
-
->  [#] Thank you for providing some JSON and Trishiraite files from "持青伞".
-
->  [#] Thank you for the JSON and dog food files provided by "AXC00".
-
->  [#]tky, GodWil, for providing the treasure chest/exploration documents and mourning
-
->  [#]Thank you to "Misuki" for providing the 3.6 map files.
-
->  [#]Thank you "情与宇宇热恋"
-
->  [#]Thank you group：1056308869 member：'H' 的 's 鹤观 files
-
->  [#]Thank you 茶亭#6804 provide some points
-
-> [#]Github Acknowledger" <a href="https://github.com/Xcating/Json_Integration/graphs/contributors">
-> <img src="https://contrib.rocks/image?repo=Xcating/Json_Integration&max=100" />
-> </a>"
-
-> [#]TeaTingLoveYou
+> Sam5440  
+> 持青伞  
+> AXC00  
+> GodWil  
+> Misuki  
+> 情与宇宇热恋  
+> 巡刺  
+> Apiny  
+> Group 795208101 Members  
+> 毛子  
+> cowan97  
+> 1056308869 members  
+> 茶亭
+> DryIce  
+> 缘起  
+> Kirito     
+>
+> GITHUB  
+---
+<a href="https://github.com/Xcating/Json_Integration/graphs/contributors"><img src="https://contrib.rocks/image?repo=Xcating/Json_Integration&max=100" /></a>
+#### TeaTingLoveYou
 
 ###### 🍵ABOUT TEATING
 
@@ -52,4 +52,4 @@
 
 ##### 
 
-[![Tdev](https://user-images.githubusercontent.com/82816129/235845181-c108019b-fe13-497b-ae45-8cc226996661.png)](https://discord.gg/xce)
+[![Tdev](https://user-images.githubusercontent.com/82816129/235845181-c108019b-fe13-497b-ae45-8cc226996661.png)](https://discord.gg/xce)huu

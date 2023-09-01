@@ -1,0 +1,10 @@
+Instructions for using the Genshin Impact "Luminous Mirage" treasure chest and gift certificate collection script:
+
+Set the script to run automatically. Make sure to enable "Kill" and "Pickup" (pickup distance is recommended to be no less than 40 meters).
+Once the script has finished collecting treasure chests and gift certificates, manually complete the challenge points.
+After completing the treasure chests, gift certificates, and challenges, you can complete the puzzle treasure chests and other points as needed. Do this until you have 270 gift certificates.
+Once you have 270 gift certificates, you can use the activity item to mark the remaining treasure chests. Then, you can complete them one by one.
+Notes:
+
+You need to have unlocked all three regions before using this script.
+This script was provided and compiled by the Genshin Impact player "Zhi Qing San".

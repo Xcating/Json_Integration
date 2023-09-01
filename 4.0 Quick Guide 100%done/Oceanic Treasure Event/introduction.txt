@@ -1,0 +1,38 @@
+Sleep 1 is to open the statue of the seven.
+Sleep 2 is to find the geoculus.
+Sleep 3 is to open the statue of the seven.
+Sleep 4 is to open the statue of the seven and then go to accept the quest.
+Sleep 5 is to accept the quest and then defeat the monsters, after which you will automatically chat with the NPC.
+Sleep 6 is to go to Haimote Village. I went into the water to record, but I don't know if it's useful or not.
+Sleep 7 is to defeat the crabs with the mark.
+Sleep 8 is still on the way to Haimote Village.
+Sleep 9 is still on the way to Haimote Village, and you can also open an anchor point.
+Sleep 10 is still on the way to Haimote Village.
+Sleep 11 is to chat with the NPC at the location (I don't know why).
+Sleep 12 is to chat with Mamehe, and there is an anchor point on the left side, which is recommended to open.
+Sleep 13 is on the way to his house 1.
+Sleep 14 is to go to her house and chat with her.
+Sleep 15 is to chat with the bottle (quest 1).
+Sleep 16 is to go to collect the paint.
+Sleep 17 is to hit the red stone in front and then enter the dialogue.
+Sleep 18 is to activate the other one that has not been activated by hitting it once.
+Sleep 19 is to hit the red stone in front to decrypt.
+Sleep 20 is to find the NPC.
+Sleep 21 is to go to something unknown, but you can just go in.
+Sleep 22 is to arrive at another place to decrypt, you need to go to the "stone glowing with red light" and press F.
+Sleep 23 is to move from 22 to 23 and hit the red boulder in front. Now, take the "stone glowing with red light" and press F to teleport to 24.
+Sleep 24 is to hit the "stone glowing with red light" and the "stone glowing with red light" on the opposite side is activated, then teleport to 25.
+Sleep 25 is to take the "stone glowing with red light" and press F to teleport from 25 to 26.
+Sleep 26 is the place to put the stone down.
+Sleep 27 is to take the "stone glowing with red light" to position 28 (originally 26) and put it down.
+Sleep 28 is to put it down at position 28 (originally 26).
+Sleep 29 is to hit the "stone glowing with red light" in front of position 29 to activate it.
+Sleep 30 is to take it to position 31 and activate it.
+Sleep 31 is to press F to put it down at position 31 and hit the stone in front.
+Sleep 32 is to go to chat.
+Sleep 33 is to go to her house 1.
+Sleep 34 is to go to her house, chat, and defeat the monsters, ending quest 1.
+
+If you don't understand the decryption part, you can watch the video "Yīzhílóng yī dì yī yī qǐ" by Nǐ de Yǐng Yuè Yuè at the 5th and 12th seconds to start decrypting.
+
+https://www.bilibili.com/video/BV1Ju4y1q7kY
