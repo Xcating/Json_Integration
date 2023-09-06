@@ -1,8 +1,6 @@
-[![image](https://user-images.githubusercontent.com/82816129/234908010-50130cef-3b15-4de7-b8fb-493375575cb9.png)](https://github.com/Xcating/Json_Integration#)
-## [English Verions](https://github.com/Xcating/Json_Integration/tree/dev)  
-                    
+[![image](https://user-images.githubusercontent.com/82816129/234908010-50130cef-3b15-4de7-b8fb-493375575cb9.png)](https://github.com/Xcating/Json_Integration#) 
 
-## **[Join Discord](https://discord.gg/e4kSanAW2q)**
+## **[Join We Discord](https://discord.gg/e4kSanAW2q)**
 
 
 ### 🥵About Point Info Or Infringement,plz dm [M🍵E](https://discord.com/users/995140672275349596)
