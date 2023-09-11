@@ -1,0 +1,5 @@
+最后一个点位《3号点》要坐4个颜色花的轨道
+紫色花需要坐两次，第2次要去左边轨道
+
+The last point "Point 3" needs to sit on the track of 4 colored flowers.
+The purple flower requires two rides, and the second time you have to go to the left track.
