@@ -32,7 +32,6 @@
 > 缘起  
 > Kirito   
 > 柒酱   
-> AokManage编写组  
 > 阿晨  qq1011075673  
 >
 > GITHUB  
