@@ -27,7 +27,7 @@
 > Group 795208101 Members  
 > 毛子  
 > cowan97  
-> 1056308869 members  
+> 1056308869 个成员  
 > 茶亭    
 > 缘起  
 > Kirito   
@@ -36,7 +36,7 @@
 >
 > GITHUB  
 ---
-<a href="https://github.com/Xcating/Json_Integration/graphs/contributors"><img src="https://contrib.rocks/image?repo=Xcating/Json_Integration&max=100" /></a>
+<a href="https://github.com/Xcating/Json_Integration/graphs/contributors"><img src="https://contrib.rocks/image?repo=Xcating/Json_Integration&max=80" /></a>
 #### TeaTingLoveYou
 
 ###### 🍵ABOUT TEATING
