@@ -5,7 +5,7 @@
 
 ## **[加入我们的discord服务器](https://discord.gg/e4kSanAW2q)**
 
-## [QQ群  727853428 火速来玩，点击加入]([http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=rL-ncACf1njkQxAeXxiQ-h5oKA4EMNsO&authKey=PZEQv9QYLefDcRHZd%2Bt1aaxGILDy4KuTK5ybSKEBVT5ICcpXbQPdviFUM%2BnvmisQ&noverify=0&group_code=795208101](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=FwA7zm8pqhyob7KzQs87m1e-mVdfMV_b&authKey=b7YNI3e3K9WVaDUDizZwFjbYV2d6pefq7Z1Cawi4D1ZiMOK%2BOPJ%2FZVrcinJnliP0&noverify=0&group_code=727853428))
+## [QQ群  727853428 火速来玩，点击加入](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=FwA7zm8pqhyob7KzQs87m1e-mVdfMV_b&authKey=b7YNI3e3K9WVaDUDizZwFjbYV2d6pefq7Z1Cawi4D1ZiMOK%2BOPJ%2FZVrcinJnliP0&noverify=0&group_code=727853428)
 
 ### 												 ⛪[Akebi-GC   Json自定义传送教程](https://docs.qq.com/doc/DTFFHRXRlTWZ6ZFhh)
 
