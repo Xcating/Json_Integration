@@ -1,0 +1,4 @@
+传送没反应就开瞬移，Ak问题和我做的JSON无关
+If the teleport no response use fast tp , akebi issue not Json issue.
+
+(Note from me thafox: Enable noclip to avoid falling off the map)
