@@ -1,0 +1,3 @@
+C开始就是旧日之海的点位，别踏马在群里问为什么会没效果
+Starting from C, 
+Please teleport into underwater for teleport to work, dont ask why it doesnt work.
