@@ -1,1 +1,10 @@
-{"description": "Integration By https://github.com/Xcating/Json_Integration Make By Everyone", "name": "Teyvat_Mint_2048", "position": [-3737.817, 125.591, -811.706]}
+{
+    "checked": true,
+    "description": "Integration By https://github.com/Xcating/Json_Integration Make By Everyone",
+    "name": "Teyvat_Mint_2048",
+    "position": [
+        -3737.81689453125,
+        125.59100341796875,
+        -811.7059936523438
+    ]
+}

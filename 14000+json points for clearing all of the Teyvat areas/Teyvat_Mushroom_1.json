@@ -1,1 +1,10 @@
-{"description": "Integration By https://github.com/Xcating/Json_Integration Make By Everyone", "name": "Teyvat_Mushroom_1", "position": [-1862.926, 194.989, -4237.003]}
+{
+    "checked": true,
+    "description": "Integration By https://github.com/Xcating/Json_Integration Make By Everyone",
+    "name": "Teyvat_Mushroom_1",
+    "position": [
+        -1862.926025390625,
+        194.98899841308594,
+        -4237.0029296875
+    ]
+}

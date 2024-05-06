@@ -1,1 +1,10 @@
-{"description": "Integration By https://github.com/Xcating/Json_Integration Make By Everyone", "name": "Teyvat_ElectroCrystal_140", "position": [-685.714, 234.171, 3340.998]}
+{
+    "checked": true,
+    "description": "Integration By https://github.com/Xcating/Json_Integration Make By Everyone",
+    "name": "Teyvat_ElectroCrystal_140",
+    "position": [
+        -685.7139892578125,
+        234.17100524902344,
+        3340.998046875
+    ]
+}

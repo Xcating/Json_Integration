@@ -1,1 +1,10 @@
-{"name": "36K-5", "position": [320.591919, 380.06604, 5949.944824], "description": "Integration By https://github.com/Xcating/Json_Integration Make By Everyone"}
+{
+    "checked": true,
+    "description": "Integration By https://github.com/Xcating/Json_Integration Make By Everyone",
+    "name": "36K-5",
+    "position": [
+        320.5919189453125,
+        380.0660400390625,
+        5949.94482421875
+    ]
+}

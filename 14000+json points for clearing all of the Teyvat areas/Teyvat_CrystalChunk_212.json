@@ -1,1 +1,10 @@
-{"description": "Integration By https://github.com/Xcating/Json_Integration Make By Everyone", "name": "Teyvat_CrystalChunk_212", "position": [-210.91, 323.337, 2089.131]}
+{
+    "checked": true,
+    "description": "Integration By https://github.com/Xcating/Json_Integration Make By Everyone",
+    "name": "Teyvat_CrystalChunk_212",
+    "position": [
+        -210.91000366210938,
+        323.3370056152344,
+        2089.131103515625
+    ]
+}

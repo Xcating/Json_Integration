@@ -1,1 +1,10 @@
-{"description": "Integration By https://github.com/Xcating/Json_Integration Make By Everyone", "name": "Teyvat_BirdEgg_135", "position": [-147.909, 250.642, 3062.085]}
+{
+    "checked": true,
+    "description": "Integration By https://github.com/Xcating/Json_Integration Make By Everyone",
+    "name": "Teyvat_BirdEgg_135",
+    "position": [
+        -147.90899658203125,
+        250.64199829101563,
+        3062.0849609375
+    ]
+}

@@ -1,1 +1,10 @@
-{"description": "Integration By https://github.com/Xcating/Json_Integration Make By Everyone", "name": "Teyvat_SeaGrass_85", "position": [-3279.188, 200.825, -3310.702]}
+{
+    "checked": true,
+    "description": "Integration By https://github.com/Xcating/Json_Integration Make By Everyone",
+    "name": "Teyvat_SeaGrass_85",
+    "position": [
+        -3279.18798828125,
+        200.8249969482422,
+        -3310.701904296875
+    ]
+}
