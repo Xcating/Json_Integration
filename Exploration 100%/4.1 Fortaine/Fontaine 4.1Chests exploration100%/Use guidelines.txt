@@ -1,0 +1,14 @@
+本合集一共收集数量为：
+    宝箱：215个
+    仙灵：13个
+    限时挑战：28个
+
+去掉任务宝箱等，全拿完探索度会溢出100%。by chiqingsan
+
+
+The total number collected in this collection is:
+     Treasure Chests: 215
+     Faeries: 13
+     Limited time challenges: 28
+
+Remove the quest treasure chests, etc., and the exploration level will exceed 100% after taking them all. by chiqingsan

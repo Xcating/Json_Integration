@@ -1,7 +1,13 @@
-[![image](https://user-images.githubusercontent.com/82816129/234908010-50130cef-3b15-4de7-b8fb-493375575cb9.png)](https://github.com/Xcating/Json_Integration#) 
+[![image](https://user-images.githubusercontent.com/82816129/234908010-50130cef-3b15-4de7-b8fb-493375575cb9.png)](https://github.com/Xcating/Json_Integration#)
 
-## **[Join We Discord](https://discord.gg/e4kSanAW2q)**
+## [English Version](https://github.com/Xcating/Json_Integration/tree/dev)  
+### 		[<img src="https://user-images.githubusercontent.com/82816129/234908325-97c49424-3f47-4ad0-8bb9-da706146118a.png" alt="image" style="zoom:80%;" />](https://github.com/Xcating/Json_Integration/archive/refs/heads/main.zip)                       
 
+## **[加入我们的discord服务器](https://discord.gg/e4kSanAW2q)**
+
+## [QQ群  727853428 火速来玩，点击加入](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=FwA7zm8pqhyob7KzQs87m1e-mVdfMV_b&authKey=b7YNI3e3K9WVaDUDizZwFjbYV2d6pefq7Z1Cawi4D1ZiMOK%2BOPJ%2FZVrcinJnliP0&noverify=0&group_code=727853428)
+
+### 												 ⛪[Akebi-GC   Json自定义传送教程](https://docs.qq.com/doc/DTFFHRXRlTWZ6ZFhh)
 
 ### 🥵About Point Info Or Infringement,plz dm [M🍵E](https://discord.com/users/995140672275349596)
 
@@ -9,27 +15,29 @@
 
 ## 👤contributors:
 
-> Sam5440  
-> ChiQingSan  
+> Sam5440 
+> Thafoxes 
+> 持青伞  
 > DryIce  
-> Thafox  
 > AXC00  
 > GodWil  
 > Misuki  
-> QYSG  
-> XunCi  
+> 情与宇宇热恋  
+> 巡刺  
 > Apiny  
 > Group 795208101 Members  
-> byd  
+> 毛子  
 > cowan97  
-> 1056308869 members  
-> Xcating    
-> YuanQi  
+> 1056308869 个成员  
+> 茶亭    
+> 缘起  
 > Kirito   
+> 柒酱   
+> 阿晨  qq1011075673  
 >
 > GITHUB  
 ---
-<a href="https://github.com/Xcating/Json_Integration/graphs/contributors"><img src="https://contrib.rocks/image?repo=Xcating/Json_Integration&max=100" /></a>
+<a href="https://github.com/Xcating/Json_Integration/graphs/contributors"><img src="https://contrib.rocks/image?repo=Xcating/Json_Integration&max=80" /></a>
 #### TeaTingLoveYou
 
 ###### 🍵ABOUT TEATING
